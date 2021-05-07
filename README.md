@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AchmadAkif
-- 👀 I’m interested in Web Programming
+- 👀 I’m interested in Web Developing
 - 🌱 I’m currently learning HTML,CSS,JS
 - 📫 How to reach me achmadakif7@gmail.com
 
